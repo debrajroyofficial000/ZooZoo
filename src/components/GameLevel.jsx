@@ -1,4 +1,3 @@
-
 function GameLevel({ handleLevel }) {
   return (
     <>

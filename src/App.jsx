@@ -1,8 +1,8 @@
 import { useState } from "react";
-import GameLevel from "./components/GameLevel";
-import GameBoard from "./components/GameBoard";
+import { GameLevel, GameBoard } from "./components";
 function App() {
   const [selectedLevel, setSelectedLevel] = useState(0);
+
   function handleSelectingLevel(level) {
     setSelectedLevel(level);
   }
