@@ -6,15 +6,15 @@ Welcome to ZooZoo, a memory booster game built with React JS and Tailwind CSS fo
 
 ZooZoo is a fun and interactive game designed to improve your memory skills. The game presents players with various levels of difficulty - easy, medium, and hard. Upon selecting a level, players are presented with a grid of cards, each containing a unique image.
 
-## How to Play
+### How to Play
 
-1. **Choose a Level**: Select one of the three levels - easy, medium, or hard.
-2. **Memory Challenge**: Once a level is chosen, a grid of cards will appear. Memorize the position of the cards as they will shuffle once you click on one.
-3. **Click a Card**: Click on any card to reveal its hidden image.
-4. **Remember & Match**: Remember the position of the revealed card. Your objective is to find its matching pair.
-5. **Match Pairs**: Click on another card to find its matching pair. If the cards match, they will disappear from the grid. If they don't match, the cards will be shuffled, and you can try again.
-6. **Complete the Level**: Continue matching pairs until all cards have been removed from the grid. You will then advance to the next level.
-7. **Scoreboard**: Keep track of your score on the small scoreboard.
+1. **Select Your Preferred Difficulty Level**: Choose between easy, medium, or hard.
+2. **Click Any Card**: Click on any card, image attached to it.
+3. **Memorize and Match**: Try to memorize the card's image and avoid clicking the same card again.
+4. **Shuffle Cards**: After each click, all the cards will shuffle, keeping you on your toes!
+5. **Continue Matching**: Keep clicking and matching pairs until you've uncovered all the cards.
+6. **Complete Level**: If you manage to click on each card only once, a pop-up will appear, allowing you to either replay the game or advance to the next level.
+7. **Final Level Finish**: Upon completing the final level, you can restart the game to challenge yourself again.
 
 ## Game Rules
 
