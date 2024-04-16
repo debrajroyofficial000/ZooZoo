@@ -1,62 +1,62 @@
 export const data = [
   {
     id: 1,
-    url: "./bear.jpg",
+    url: "./images/bear.jpg",
     name: "bear",
   },
   {
     id: 2,
-    url: "./elephant.jpg",
+    url: "./images/elephant.jpg",
     name: "elephant",
   },
   {
     id: 3,
-    url: "./fox.jpg",
+    url: "./images/fox.jpg",
     name: "fox",
   },
   {
     id: 4,
-    url: "./giraffe.jpg",
+    url: "./images/giraffe.jpg",
     name: "giraffe",
   },
   {
     id: 5,
-    url: "./horse.jpg",
+    url: "./images/horse.jpg",
     name: "horse",
   },
   {
     id: 6,
-    url: "./lion.jpg",
+    url: "./images/lion.jpg",
     name: "lion",
   },
   {
     id: 7,
-    url: "./monkey.jpg",
+    url: "./images/monkey.jpg",
     name: "monkey",
   },
   {
     id: 8,
-    url: "./panda.jpg",
+    url: "./images/panda.jpg",
     name: "panda",
   },
   {
     id: 9,
-    url: "./rabbit.jpg",
+    url: "./images/rabbit.jpg",
     name: "rabbit",
   },
   {
     id: 10,
-    url: "./redpanda.jpg",
+    url: "./images/redpanda.jpg",
     name: "redpanda",
   },
   {
     id: 11,
-    url: "./tiger.jpg",
+    url: "./images/tiger.jpg",
     name: "tiger",
   },
   {
     id: 12,
-    url: "./wolf.jpg",
+    url: "./images/wolf.jpg",
     name: "wolf",
   },
 ];

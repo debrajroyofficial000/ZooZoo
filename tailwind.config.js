@@ -4,8 +4,6 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        heroBackground:
-          "linear-gradient(to right bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('./zoo.jpg')",
         popUpBackground:
           "linear-gradient(to right bottom, rgba(0,0,0,0.4), rgba(0,0,0,0.4))",
       },
